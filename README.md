@@ -1,6 +1,6 @@
 # Please see explanation.pptx for visual understanding of how the methold works.
 
-This problem statement is part of my evaluation within 30minute, however I could not get it done within 30min. 
+This problem statement is part of my evaluation within 30minute, however I could not get it done within 30min. [a href="https://www.hackerrank.com/challenges/flipping-the-matrix/problem"]Link[/a]
 
 While tackling the problem statement for I was thinking of rubiks cube, and tried flipRow(matrix, rowNum) and flipCol(matrix, colNum).
 However I cant think of a dynamic way to flip the row or column such that all the biggest number will be on the top left quadrant.
